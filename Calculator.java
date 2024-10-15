@@ -40,7 +40,7 @@ public class Calculator {
                         System.out.println("Error: Division by zero is not allowed.");
                     }
                 }
-                default -> System.out.println("Invalid operation.");
+                default -> System.out.println("Invalid operations.");
             }
         }
     }
